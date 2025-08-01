@@ -1,6 +1,6 @@
  <h1 align="center" OLá, me chamo Maria Eduarda 👋 </h1> 
 
- # 💭 Sombre mim 
+ # 💭 Sobre mim 
 
 Atualmente estou cursando **Técnico em Desenvolvimento de sistemas** pela instituição **SENAI** onde adquiri conhecimentos sobre HTML, CSS, Python e Javascript e outras ferramentas.
 Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e funcionais, buscando sempre unir estética e usabilidade. Onde possuo uma forte afinidade por **design** e **desenvolvimento front-end**.
@@ -24,7 +24,7 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 <div align="center">
  <a href="https://github.com/MariaGomesR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGomesR&show_icons=true&theme=radical" alt="MariaGomesR's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=kacho_ga"/>
  </a>
 </div>
 
