@@ -19,7 +19,7 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 <img src="https://github.com/MariaGomesR/MariaGomesR/blob/main/assets/database.png" width="40" height="40"/>
 </p>
 
-
+---
 
 <div align="center">
  <a href="https://github.com/MariaGomesR">
@@ -28,7 +28,7 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
  </a>
 </div>
 
-
+---
 
 ### 📌 Onde me encontrar ? 
 - 📩 Email: maria.gomesricardo24@gmail.com
