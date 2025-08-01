@@ -4,7 +4,7 @@
 
 Atualmente estou cursando **Técnico em Desenvolvimento de sistemas** pela instituição **SENAI** onde adquiri conhecimentos sobre HTML, CSS, Python e Javascript e outras ferramentas.
 Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e funcionais, buscando sempre unir estética e usabilidade. Onde possuo uma forte afinidade por **design** e **desenvolvimento front-end**.
-
+---
 #### 💻 Tecnologias que utilizo
 
 <p align= "left" 
@@ -15,16 +15,15 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 <img src="https://github.com/MariaGomesR/MariaGomesR/blob/main/assets/database.png" width="40" height="40"/>
-
 </p>
-
+---
 <div align="center">
  <a href="https://github.com/MariaGomesR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGomesR&show_icons=true&theme=radical" alt="MariaGomesR's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=dracula"/>
  </a>
 </div>
-
+---
 ####📌 Onde me encontrar ? 
 - 📩 Email: maria.gomesricardo24@gmail.com
 - 🔗 Linkedin: (https://www.linkedin.com/in/maria-gomes-a77039367/)
