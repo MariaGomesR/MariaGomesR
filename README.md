@@ -5,7 +5,7 @@
 Atualmente estou cursando **Técnico em Desenvolvimento de sistemas** pela instituição **SENAI** onde adquiri conhecimentos sobre HTML, CSS, Python e Javascript e outras ferramentas.
 Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e funcionais, buscando sempre unir estética e usabilidade. Onde possuo uma forte afinidade por **design** e **desenvolvimento front-end**.
 
-
+---
 
 ## 💻 Tecnologias que utilizo 
 
