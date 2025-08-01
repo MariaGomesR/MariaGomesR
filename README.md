@@ -1,13 +1,13 @@
- <h1 align="center" OLá, me chamo Maria Eduarda 👋 </h1>
+ <h1 align="center" OLá, me chamo Maria Eduarda 👋 </h1> 
 
-<h2 💭 Sombre mim </h2>
+ # 💭 Sombre mim 
 
 Atualmente estou cursando **Técnico em Desenvolvimento de sistemas** pela instituição **SENAI** onde adquiri conhecimentos sobre HTML, CSS, Python e Javascript e outras ferramentas.
 Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e funcionais, buscando sempre unir estética e usabilidade. Onde possuo uma forte afinidade por **design** e **desenvolvimento front-end**.
 
 
 
-<h3 💻 Tecnologias que utilizo </h3>
+## 💻 Tecnologias que utilizo 
 
 <p align= "left" 
 
@@ -30,7 +30,7 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 
 
 
-<h4📌 Onde me encontrar ? </h4>
+### 📌 Onde me encontrar ? 
 - 📩 Email: maria.gomesricardo24@gmail.com
 - 🔗 Linkedin: (https://www.linkedin.com/in/maria-gomes-a77039367/)
 
