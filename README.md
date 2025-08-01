@@ -14,7 +14,7 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-<img src="https://www.flaticon.com/free-icons/sqlite"/>"
+<img src=<a href="https://www.flaticon.com/free-icons/sqlite" title="sqlite icons" />
 </p>
 
 
