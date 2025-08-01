@@ -23,8 +23,8 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 
 <div align="center">
  <a href="https://github.com/MariaGomesR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGomesR&show_icons=true&theme=shadow_red" alt="MariaGomesR's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=shadow_red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGomesR&show_icons=true&theme=monokai" alt="MariaGomesR's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=monokai"/>
  </a>
 </div>
 
