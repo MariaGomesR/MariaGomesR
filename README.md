@@ -18,9 +18,16 @@ Tenho facilidade em transformar ideias em **interfaces visuais** intuitivas e fu
 
 </p>
 
-#### Onde me encontrar ? 
-- Email: maria.gomesricardo24@gmail.com
-- Linkedin: (https://www.linkedin.com/in/maria-gomes-a77039367/)
+<div align="center">
+ <a href="https://github.com/MariaGomesR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGomesR&show_icons=true&theme=radical" alt="MariaGomesR's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGomesR&layout=compact&langs_count=10&theme=dracula"/>
+ </a>
+</div>
+
+####📌 Onde me encontrar ? 
+- 📩 Email: maria.gomesricardo24@gmail.com
+- 🔗 Linkedin: (https://www.linkedin.com/in/maria-gomes-a77039367/)
 
 
 
